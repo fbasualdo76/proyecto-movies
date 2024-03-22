@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# proyecto-movies.
+**GIT | GITHUB | HTML | MATERIAL UI | JAVASCRIPT | REACT JS + VITE**  
+https://fbasualdo76.github.io/proyecto-movies/
+CRUD, en este caso de películas, que permite crear, eliminar, marcar/desmarcar el Like y filtrar.
+Mediante la librería JSON-SERVER y render.com simulo un backend que me provee los endpoints, utilizo AXIOS para el manejo de peticiones HTTP, La librería REACT ROUTER DOM para en enrutamiento, MATERIAL UI para estilizar los componentes, La librería CANVAS CONFETTI para el "festejo" del like, además utilizo, FORMIK y YUP para el formulario y validaciones. Utilizo componentes para la estructura y el diseño es responsivo
+Aclaración: En render.com utilizo una cuenta gratuita, por lo que, las interacciones pueden demorar un poco.
